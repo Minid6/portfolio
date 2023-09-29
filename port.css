@@ -1,5 +1,41 @@
-.card-image{
-    height:100px;
+.profile-container{
+    background-color: black;
+    background-image: url("https://img.freepik.com/free-photo/young-stylish-sexy-woman-cinema-backstage-celebrating-red-satin-evening-dress_285396-8963.jpg?w=996&t=st=1695977705~exp=1695978305~hmac=df7dc4c4a7580ad9c798dcf83c1ae55bad51d0808cadab4c499b44434304eb48");
+    height:100vh;
+    background-size: cover;
+
+}
+.image-card{
     width:150px;
+    height:160px;
+    background-size: adjust;
+    border-radius: 100px;
+    margin:10px;
+    padding:10px;
+}
+.profile-image{
+    background-color: black;
+}
+.name-heading{
+    color:white;
+    font-family: Roboto;
+    font-size: 35px;
+
+}
+.paragraph{
+    color:white;
+}
+
+.follow-us-icon-container{
+    margin:5px;
+    padding:10px;
+    background-color: white;
     border-radius: 20px;
+}
+.name-heading2{
+    color:white;
+    font-family: Roboto;
+    font-size: 35px;
+
+
 }
